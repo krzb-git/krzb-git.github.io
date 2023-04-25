@@ -1,4 +1,4 @@
-OBJECTID;Number;Link;Adres;Miejscowość
+OBJECTID;Number;Link;Adres;Miasto
 91001;P-0333;https://sdd.mwik.bydgoszcz.pl/document/111;"KORONOWSKA 7";Bydgoszcz
 91002;P-0444;https://sdd.mwik.bydgoszcz.pl/document/222;"FOCHA 2";Bydgoszcz
 91003;P-0444;https://sdd.mwik.bydgoszcz.pl/document/222;"FORDOŃSKA 2";Bydgoszcz
