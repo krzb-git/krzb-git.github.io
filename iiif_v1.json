@@ -1,0 +1,229 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8030/api/documents/a8bc76b0-f43c-4366-970e-07d15d795127/iiif",
+  "type": "Manifest",
+  "label": {
+    "pl": [
+      "Zasoby"
+    ]
+  },
+  "items": [],
+  "metadata": [
+    {
+      "label": {
+        "pl": [
+          "Numer"
+        ]
+      },
+      "value": {
+        "pl": [
+          "P/1800"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Nazwa"
+        ]
+      },
+      "value": {
+        "pl": [
+          "test1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Opis"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Kategoria"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Dokumentacja technologiczna"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Nazwa instytucji"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Miejskie Wodociągi i Kanalizacja"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Komórka organizacyjna"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Autor"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Miejscowość"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Dzielnica"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Nr ulicy"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Nr działki"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "id sieci"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Id obiektu"
+        ]
+      },
+      "value": {
+        "pl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Współrzędne, szerokość (X)"
+        ]
+      },
+      "value": {
+        "pl": [
+          "null"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Współrzędne, długość (Y)"
+        ]
+      },
+      "value": {
+        "pl": [
+          "null"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Zawartość"
+        ]
+      },
+      "value": {
+        "pl": [
+          "-"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Rodzaj opracowania"
+        ]
+      },
+      "value": {
+        "pl": [
+          "-"
+        ]
+      }
+    },
+    {
+      "label": {
+        "pl": [
+          "Obiekt"
+        ]
+      },
+      "value": {
+        "pl": [
+          "-"
+        ]
+      }
+    }
+  ]
+}
