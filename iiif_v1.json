@@ -6,6 +6,169 @@
     "@language" : "pl",
     "@value" : "Zasoby MWIK Bydgoszcz"
   },
+  "metadata" : [ {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Numer"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "OS_2000"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nazwa"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "KOLEKTOR SANITARNY F-III ORAZ DESZCZOWY A-0 W UL. CECHOWEJ"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Opis"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Kategoria"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Dokumentacja techniczna przyłączy/sieci wod-kan"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nazwa instytucji"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Miejskie Wodociągi i Kanalizacja"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Komórka organizacyjna"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "BPBK"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Autor"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Miejscowość"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Bydgoszcz"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Dzielnica"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "FORDON"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nr ulicy"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nr działki"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "id sieci"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Id obiektu"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Współrzędne, szerokość (X)"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "53.1496756"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Współrzędne, długość (Y)"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "18.1742111"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Zawartość"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Opis techniczny,Rysunki techniczne"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Rodzaj opracowania"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Projekt Techniczny"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Obiekt"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Sieci zewnętrzne,Sieć kanalizacji deszczowej,Sieć kanalizacji sanitarnej"
+    }
+  } ],
   "description" : {
     "@language" : "pl",
     "@value" : "Mapy z zasobów MWIK Bydgoszcz"
@@ -18,6 +181,15 @@
   "sequences" : [ {
     "@id" : "40282e6b-39aa-4744-8c27-4ce508f9c1de",
     "@type" : "sc:Sequence",
-    "canvases" : []
+    "canvases" : [ {
+      "@id" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace",
+      "@type" : "sc:Canvas",
+      "label" : "OS_2000_0001.jp2",
+      "images" : [ ],
+      "attribution" : {
+        "@language" : "pl",
+        "@value" : "Autor:  "
+      }
+    } ]
   } ]
 }
