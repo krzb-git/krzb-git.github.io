@@ -179,8 +179,6 @@
     "@value" : "MWIK Bydgoszcz"
   },
   "sequences" : [ {
-    "@id" : "40282e6b-39aa-4744-8c27-4ce508f9c1de",
-    "@type" : "sc:Sequence",
     "canvases" : []
   } ]
 }
