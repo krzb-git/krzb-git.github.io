@@ -178,7 +178,5 @@
     "@language" : "pl",
     "@value" : "MWIK Bydgoszcz"
   },
-  "sequences" : [ {
-    "canvases" : []
-  } ]
+  "sequences" : []
 }
