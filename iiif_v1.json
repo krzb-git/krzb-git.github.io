@@ -13,7 +13,7 @@
     },
     "value" : {
       "@language" : "pl",
-      "@value" : "OS_2000"
+      "@value" : "OS_20003333"
     }
   }, {
     "label" : {
@@ -176,7 +176,7 @@
   "license" : [ "https://creativecommons.org/licenses/by/3.0/" ],
   "attribution" : {
     "@language" : "pl",
-    "@value" : "MWIK Bydgoszcz"
+    "@value" : "DDDDDD Bydgoszcz"
   },
   "sequences" : []
 }
