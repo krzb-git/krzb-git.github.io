@@ -23,11 +23,6 @@
       "@type" : "sc:Canvas",
       "label" : "OS_2000_0001.jp2",
       "images" : [],
-          "format" : "image/jpeg",
-          "profile" : "http://iiif.io/api/image/2/level2.json"
-        },
-        "on" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace"
-      } ]
     } ]
   } ]
 }
