@@ -1,229 +1,195 @@
 {
-  "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8030/api/documents/a8bc76b0-f43c-4366-970e-07d15d795127/iiif",
-  "type": "Manifest",
-  "label": {
-    "pl": [
-      "Zasoby"
-    ]
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "http://localhost:8030/api/documents/a5c15ead-5fc2-4955-91dc-a8b09d095044/iiif",
+  "label" : {
+    "@language" : "pl",
+    "@value" : "Zasoby "
   },
-  "items": [],
-  "metadata": [
-    {
-      "label": {
-        "pl": [
-          "Numer"
-        ]
-      },
-      "value": {
-        "pl": [
-          "P/1800"
-        ]
-      }
+  "metadata" : [ {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Numer"
     },
-    {
-      "label": {
-        "pl": [
-          "Nazwa"
-        ]
-      },
-      "value": {
-        "pl": [
-          "test1"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Opis"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Kategoria"
-        ]
-      },
-      "value": {
-        "pl": [
-          "Dokumentacja technologiczna"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Nazwa instytucji"
-        ]
-      },
-      "value": {
-        "pl": [
-          "Miejskie Wodociągi i Kanalizacja"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Komórka organizacyjna"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Autor"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Miejscowość"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Dzielnica"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Nr ulicy"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Nr działki"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "id sieci"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Id obiektu"
-        ]
-      },
-      "value": {
-        "pl": [
-          ""
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Współrzędne, szerokość (X)"
-        ]
-      },
-      "value": {
-        "pl": [
-          "null"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Współrzędne, długość (Y)"
-        ]
-      },
-      "value": {
-        "pl": [
-          "null"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Zawartość"
-        ]
-      },
-      "value": {
-        "pl": [
-          "-"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Rodzaj opracowania"
-        ]
-      },
-      "value": {
-        "pl": [
-          "-"
-        ]
-      }
-    },
-    {
-      "label": {
-        "pl": [
-          "Obiekt"
-        ]
-      },
-      "value": {
-        "pl": [
-          "-"
-        ]
-      }
+    "value" : {
+      "@language" : "pl",
+      "@value" : "OS_2000"
     }
-  ]
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nazwa"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "KOLEKTOR "
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Opis"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Kategoria"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Dokumentacja techniczna przyłączy/sieci wod-kan"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nazwa instytucji"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : " Kanalizacja"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Komórka organizacyjna"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "BPBK"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Autor"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Miejscowość"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "bb"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Dzielnica"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "ff"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nr ulicy"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Nr działki"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "id sieci"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Id obiektu"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : ""
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Współrzędne, szerokość (X)"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "88"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Współrzędne, długość (Y)"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "1"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Zawartość"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Opis techniczny,Rysunki techniczne"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Rodzaj opracowania"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Projekt Techniczny"
+    }
+  }, {
+    "label" : {
+      "@language" : "pl",
+      "@value" : "Obiekt"
+    },
+    "value" : {
+      "@language" : "pl",
+      "@value" : "Sieci zewnętrzne,Sieć kanalizacji deszczowej,Sieć kanalizacji sanitarnej"
+    }
+  } ],
+  "description" : {
+    "@language" : "pl",
+    "@value" : "Mapy "
+  },
+  "license" : [ "https://creativecommons.org/licenses/by/3.0/" ],
+  "attribution" : {
+    "@language" : "pl",
+    "@value" : "MWIK Bydgoszcz"
+  },
+  "sequences" : [ {
+    "@id" : "40282e6b-39aa-4744-8c27-4ce508f9c1de",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace",
+      "@type" : "sc:Canvas",
+      "label" : "OS_2000_0001.jp2",
+      "images" : [],
+      "attribution" : {
+        "@language" : "pl",
+        "@value" : "Autor:  L"
+      }
+    } ]
+  } ]
 }
