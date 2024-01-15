@@ -181,32 +181,6 @@
   "sequences" : [ {
     "@id" : "40282e6b-39aa-4744-8c27-4ce508f9c1de",
     "@type" : "sc:Sequence",
-    "canvases" : [ {
-      "@id" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace",
-      "@type" : "sc:Canvas",
-      "label" : "OS_2000_0001.jp2",
-      "images" : [ {
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@context" : "https://iiif.io/api/presentation/2/context.json",
-          "@id" : "http://cantaloupe-prd-archive.woda.local/iiif/2/OS_2000%2FOS_2000_0001.jp2",
-          "@type" : "dctypes:Image",
-          "service" : [ {
-            "@context" : "https://iiif.io/api/image/2/context.json",
-            "@id" : "http://cantaloupe-prd-archive.woda.local/iiif/2/OS_2000%2FOS_2000_0001.jp2",
-            "profile" : "http://iiif.io/api/image/2/level2.json",
-            "protocol" : "http://iiif.io/api/image"
-          } ],
-          "format" : "image/jpeg",
-          "profile" : "http://iiif.io/api/image/2/level2.json"
-        },
-        "on" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace"
-      } ],
-      "attribution" : {
-        "@language" : "pl",
-        "@value" : "Autor: Hanna Lejer"
-      }
-    } ]
+    "canvases" : []
   } ]
 }
