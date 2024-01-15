@@ -18,11 +18,6 @@
   "sequences" : [ {
     "@id" : "40282e6b-39aa-4744-8c27-4ce508f9c1de",
     "@type" : "sc:Sequence",
-    "canvases" : [ {
-      "@id" : "66054c4a-5c3e-4a8d-9133-68b6e34e7ace",
-      "@type" : "sc:Canvas",
-      "label" : "OS_2000_0001.jp2",
-      "images" : [],
-    } ]
+    "canvases" : []
   } ]
 }
